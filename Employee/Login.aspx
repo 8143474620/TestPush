@@ -14,6 +14,8 @@
             // var cityname = city.options[city.selectedIndex].text;
             if (Login == "" || Login == undefined || Password == "" || Password == undefined) {
                 window.alert("please enter login and password")
+
+                //test git push and pull
                 return false;
             }
             
